@@ -65,6 +65,16 @@
     color: #666
   }
   
+  .hh{
+    color: rgb(153,154,176);
+    margin-right: 30px;
+    display: inline-flex;
+  }
+
+  .hh:hover{
+    color: #000;
+  }
+
   div#resume dt {
     font-style: italic;
     font-weight: bold;
